@@ -10,6 +10,7 @@ namespace ConsoleApp1
             // 1344
 
             // Some code from NewFeature1 branch
+            // NewFeature version 1.01
         }
     }
 }
